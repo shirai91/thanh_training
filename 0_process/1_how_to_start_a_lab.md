@@ -14,7 +14,7 @@ git checkout -b data_struct_and_algorithm/array
 2. Tạo file js tương ứng với file md bài tập, vd làm bài 1_array.md thì tạo file 1_array.js
 
 ```
-
+touch folder_name/file_name.js
 ```
 
 3. Code xong rồi thì commit bằng lệnh
