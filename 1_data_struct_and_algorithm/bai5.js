@@ -1,4 +1,4 @@
-var i = 10;
+const i = 10;
 do {
     console.log(i);
     i++;
