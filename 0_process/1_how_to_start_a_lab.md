@@ -20,6 +20,7 @@ git checkout -b data_struct_and_algorithm/array
 3. Code xong rồi thì commit bằng lệnh
 
 ```
+git add .
 git commit -m "complete lab <tên bài>"
 ```
 
