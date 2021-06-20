@@ -1,3 +1,7 @@
-var arr = [1, 2, 3, 4];
-var total = 0;
-for (var i in arr) { total += arr[i]; }
+var array = [1, 2, 3, 4, 5]
+var sum = 0;
+for (var i = 0; i < array.length; i++) {
+    sum += array[i++]
+};
+
+console.log("Tổng các số là " + sum);
