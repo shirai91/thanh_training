@@ -6,5 +6,5 @@ Ví dụ
 console.log(isAllEqual([1, 1, 1, 1, 1])); // in ra true
 console.log(isAllEqual([1, 2, 1, 1, 1, 1])); // in ra false
 console.log(isAllEqual(['tung', 'thanh', 'tung'])); // in ra false
-console.log(isAllEqual(['tung', 'tung', 'tung'])); // in ra false
+console.log(isAllEqual(['tung', 'tung', 'tung'])); // in ra true
 ```
